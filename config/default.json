@@ -1,0 +1,14 @@
+{
+  "docusign": {
+    "email": "lindsay.parker@inin.com",
+    "password": "fff20@d#N@czg8!Qw",
+    "integratorKey": "INTE-73fd92be-5c0e-4558-91d6-187f09a04938",
+    "templates": {
+      "e911Terms": {
+        "templateId": "A5CA30D4-835E-4309-94D1-905FF2150205",
+        "templateRoleName": "customer",
+        "emailSubject": "Advisory Regarding 911 Dialing and Limitations of Service"
+      }
+    }
+  }
+}

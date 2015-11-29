@@ -1,0 +1,24 @@
+{
+  "arrow_spacing": true,
+  "braces_spacing": {
+    "spaces": 0,
+    "empty_object_spaces": 0
+  },
+  "camel_case_classes": true,
+  "colon_assignment_spacing": {
+    "left": 0,
+    "right": 1
+  },
+  "indentation": 2,
+  "missing_fat_arrows": true,
+  "no_debugger": true,
+  "no_empty_functions": true,
+  "no_empty_param_list": true,
+  "no_interpolation_in_single_quotes": true,
+  "no_nested_string_interpolation": true,
+  "no_stand_alone_at": true,
+  "no_tabs": true,
+  "no_trailing_semicolons": true,
+  "no_unnecessary_fat_arrows": true,
+  "prefer_english_operator": true
+}

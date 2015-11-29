@@ -1,0 +1,14 @@
+{
+  "filename": "my-web-components",
+  "presets": ["es2015"],
+  "plugins": [],
+  "only": null,
+  "ignore": null,
+  "highlightCode": true,
+  "sourceMaps": "both",
+  "env": {
+    "production": {
+      sourceMaps: false
+    }
+  }
+}
